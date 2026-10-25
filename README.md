@@ -80,13 +80,13 @@ Bootstrap подключён через CDN версии 5.3.8. Файл `css/cu
 
 ## Самостоятельные доработки
 
-Добавлены изображения ноутбуков в карточки товаров и отдельные страницы товаров 2 и 3 с переключением между товарами. В каталоге представлены Apple MacBook Air 13&quot; (M3, 2024), ASUS Zenbook 14 OLED (UX3405) и HONOR MagicBook X16 Plus (2024).
+Добавлены изображения ноутбуков в карточки товаров и отдельные страницы товаров 2 и 3 с переключением между товарами.
 
 Изображения:
 
-- MacBook Air M3 — изображение с [официальной страницы технических характеристик Apple](https://support.apple.com/en-us/118551);
-- ASUS Zenbook 14 OLED (UX3405) — изображение с [официальной страницы ASUS](https://www.asus.com/laptops/for-home/zenbook/asus-zenbook-14-oled-ux3405/);
-- HONOR MagicBook X16 Plus — изображение с [официальной страницы HONOR](https://www.honor.com/cn/laptops/honor-magicbook-x16-plus/).
+- MacBook Air (3rd generation, space gray) — [изображение NiloGlock, CC0](https://commons.wikimedia.org/wiki/File:MacBook_Air_(3rd_generation,_space_gray).png);
+- Dell XPS 13 (2017) — [изображение AnVuong1222004](https://commons.wikimedia.org/wiki/File:Dell_XPS_13_(2017).png), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/);
+- Lenovo ThinkPad X1 Carbon 8th Gen — кадр из видео [LaptopMedia](https://commons.wikimedia.org/wiki/File:Lenovo_ThinkPad_X1_Carbon_8th_Gen_*360_degrees*.webm), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 ## Студент
 
