@@ -71,16 +71,22 @@ Bootstrap подключён через CDN версии 5.3.8. Файл `css/cu
 
 - `index.html` — главная страница;
 - `catalog.html` — каталог товаров;
-- `product.html` — страница товара;
+- `product.html`, `product-2.html`, `product-3.html` — страницы товаров;
 - `order.html` — форма заявки;
 - `css/custom.css` — дополнительные стили проекта;
-- `images/` — изображения проекта;
+- `images/` — изображения конкретных моделей ноутбуков;
 - `README.md` — описание проекта;
 - `.gitignore` — список игнорируемых Git файлов.
 
 ## Самостоятельные доработки
 
-Самостоятельные доработки сверх методических указаний не добавлялись.
+Добавлены изображения ноутбуков в карточки товаров и отдельные страницы товаров 2 и 3 с переключением между товарами.
+
+Изображения:
+
+- MacBook Air (3rd generation, space gray) — [изображение NiloGlock, CC0](https://commons.wikimedia.org/wiki/File:MacBook_Air_(3rd_generation,_space_gray).png);
+- Dell XPS 13 (2017) — [изображение AnVuong1222004](https://commons.wikimedia.org/wiki/File:Dell_XPS_13_(2017).png), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/);
+- Lenovo ThinkPad X1 Carbon 8th Gen — кадр из видео [LaptopMedia](https://commons.wikimedia.org/wiki/File:Lenovo_ThinkPad_X1_Carbon_8th_Gen_*360_degrees*.webm), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 ## Студент
 
